@@ -19,11 +19,13 @@
     "mocha-multi-reporters": "^1.1.7"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "chai-http": "^4.3.0",
     "cookie-parser": "^1.4.4",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
     "jade": "^1.11.0",
+    "lets-get-meta": "^2.1.1",
     "morgan": "^1.9.1"
   }
 }
